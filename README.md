@@ -1,6 +1,6 @@
 # chatbotAvatar 
 
-Image 2 Chatting Avatar
+Real time Image 2 Chatting Avatar
 
 https://www.youtube.com/watch?v=415az1RHv38
 
